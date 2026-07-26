@@ -1,115 +1,142 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:6366F1,100:06B6D4&height=210&section=header&text=Rohit%20Kushwaha&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Data%20Scientist%20%7C%20Backend%20Engineer%20%7C%20REST%20API%20%26%20Database%20Specialist&descAlignY=56&descSize=16&animation=fadeIn" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E14,50:0F1B3D,100:1F4FD8&height=220&section=header&text=Rohit%20Kushwaha&fontSize=48&fontColor=E8EEFF&fontAlign=50&fontAlignY=38&desc=Data%20Analyst%20%7C%20Python%20%C2%B7%20SQL%20%C2%B7%20ML%20%C2%B7%20BI%20Dashboards&descSize=18&descAlign=50&descAlignY=58&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/Rohitkushwaha1310">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=800&color=6366F1&center=true&vCenter=true&width=620&lines=Python+%C2%B7+FastAPI+%C2%B7+PostgreSQL;Data+Analysis+%C2%B7+Pandas+%C2%B7+NumPy;REST+API+Design+%26+Backend+Engineering;SQL+%C2%B7+SQLAlchemy+%C2%B7+Data+Pipelines;Turning+Raw+Data+into+Decisions+%E2%9A%A1" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=4C8DFF&center=true&vCenter=true&width=560&lines=Turning+raw+data+into+decisions;Python+%7C+SQL+%7C+Power+BI+%7C+ML;Building+FastAPI+backends+that+scale;Open+to+Data+Analyst+%2F+DS+Internships" alt="Typing SVG" />
 </a>
 
 <br/>
-<img src="https://komarev.com/ghpvc/?username=Rohitkushwaha1310&label=Profile+Views&color=6366F1&style=flat-square" alt="profile views"/>
+
+<img src="https://komarev.com/ghpvc/?username=Rohitkushwaha1310&label=Profile%20Views&color=1F4FD8&style=for-the-badge&labelColor=0A0E14" />
+<a href="https://linkedin.com/in/rohitkushwaha"><img src="https://img.shields.io/badge/LinkedIn-Connect-1F4FD8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0E14" /></a>
+<a href="mailto:rohitkushwaha1310@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-1F4FD8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0E14" /></a>
+
 </div>
 
 <br/>
 
-## ⚡ About Me
+## `01` &nbsp;Snapshot
 
-```python
-rohit = {
-    "role"    : "B.Tech IT Student @ AKTU University",
-    "focus"   : ["Data Analysis", "Backend Dev", "REST APIs", "Database Design"],
-    "stack"   : ["Python", "FastAPI", "PostgreSQL", "SQLAlchemy", "Pandas", "NumPy"],
-    "learning": ["System Design", "Docker", "Cloud Deployment", "ML in Production"],
-    "fun_fact": "I debug SQL at 2am and call it productivity 🛠️"
-}
+<table>
+<tr>
+<td width="50%" valign="top">
+
+```yaml
+name: Rohit Kushwaha
+role: Data Analyst | B.Tech IT @ AKTU (2024-28)
+based_in: Agra, Uttar Pradesh, India
+focus: [Analytics, Machine Learning, Dashboards, Backend]
+currently: Building end-to-end analytics + ML products
+looking_for: Data Analyst / Data Science Internship
 ```
 
-<br/>
+</td>
+<td width="50%" valign="top">
 
-## 🛠️ Tech Stack
+- 🔭 Building **Superstore Sales Analytics** — 10.8K+ rows, $2.3M+ revenue modeled
+- 🧪 Ran forensic data analysis @ **Deloitte Virtual Internship**
+- 🛡️ Shipping **MedGuard**, an encrypted multi-agent medication system
+- 🏆 3rd Rank in a 50+ team hackathon · Top 8 @ Hack Energy 1.0
+- 💡 50+ DSA problems solved on LeetCode
+
+</td>
+</tr>
+</table>
+
+## `02` &nbsp;Stack
 
 <div align="center">
 
-**Languages & Core**
+**Languages & Web**
 <br/>
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css&theme=dark" />
 
-<br/><br/>
-
-**Backend & APIs**
+**Data · ML · BI**
 <br/>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,mongodb,supabase" />
+<img src="https://img.shields.io/badge/Pandas-1F4FD8?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0A0E14"/>
+<img src="https://img.shields.io/badge/NumPy-1F4FD8?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0A0E14"/>
+<img src="https://img.shields.io/badge/Scikit--learn-1F4FD8?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=0A0E14"/>
+<img src="https://img.shields.io/badge/Matplotlib-1F4FD8?style=for-the-badge&logo=plotly&logoColor=white&labelColor=0A0E14"/>
+<img src="https://img.shields.io/badge/Power%20BI-1F4FD8?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=0A0E14"/>
+<img src="https://img.shields.io/badge/Tableau-1F4FD8?style=for-the-badge&logo=tableau&logoColor=white&labelColor=0A0E14"/>
 
-<br/><br/>
-
-**Data & Analytics**
+**Backend & Data Stores**
 <br/>
-<img src="https://skillicons.dev/icons?i=anaconda,tensorflow" />
-&nbsp;
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,sqlite,docker&theme=dark" />
 
-<br/><br/>
-
-**Tools & Workflow**
+**Tools**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
 
 </div>
 
-<br/>
-
-## 📊 GitHub Stats
+## `03` &nbsp;Featured Work
 
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rohitkushwaha1310&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&bg_color=0D1117&title_color=6366F1&icon_color=06B6D4&text_color=94A3B8&ring_color=6366F1" />
-&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitkushwaha1310&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=6366F1&text_color=94A3B8&langs_count=6" />
-</div>
 
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=Rohitkushwaha1310&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=06B6D4&currStreakLabel=94A3B8&sideLabels=94A3B8&dates=94A3B8" />
-</div>
-
+<a href="https://github.com/Rohitkushwaha1310/Superstore-Data-analyzing">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohitkushwaha1310&repo=Superstore-Data-analyzing&theme=tokyonight&hide_border=true&bg_color=0A0E14&title_color=4C8DFF&icon_color=1F4FD8&text_color=A9B7D0" />
+</a>
+<a href="https://github.com/Rohitkushwaha1310/Nexivo">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohitkushwaha1310&repo=Nexivo&theme=tokyonight&hide_border=true&bg_color=0A0E14&title_color=4C8DFF&icon_color=1F4FD8&text_color=A9B7D0" />
+</a>
 <br/>
+<a href="https://github.com/Rohitkushwaha1310/Medguard">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohitkushwaha1310&repo=Medguard&theme=tokyonight&hide_border=true&bg_color=0A0E14&title_color=4C8DFF&icon_color=1F4FD8&text_color=A9B7D0" />
+</a>
+<a href="https://github.com/Rohitkushwaha1310/Sentinel">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohitkushwaha1310&repo=Sentinel&theme=tokyonight&hide_border=true&bg_color=0A0E14&title_color=4C8DFF&icon_color=1F4FD8&text_color=A9B7D0" />
+</a>
 
-## 📈 Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohitkushwaha1310&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=06B6D4&line=6366F1&point=ffffff&area=true&area_color=6366F1" width="95%"/>
 </div>
-
-<br/>
-
-## 🏆 Achievements
 
 <details>
-<summary align="center">🏅 GitHub Trophies (click to expand)</summary>
+<summary><b>Superstore Sales Analytics</b> — full breakdown</summary>
 <br/>
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Rohitkushwaha1310&theme=tokyonight&no-frame=true&row=1&column=6&title=Stars,Commit,PR,Issues,Followers,Repositories"/>
-</div>
+
+| Metric | Result |
+|---|---|
+| Records processed | 10,800+ |
+| Revenue analyzed | $2.3M+ |
+| Dashboard | 7-page Power BI |
+| SQL techniques | CTEs · Window Functions · LAG |
+| A/B test uplift | 10.44% |
+| Model | Random Forest classifier + feature engineering |
+
 </details>
 
-<br/>
-
-## 🐍 Commit Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Rohitkushwaha1310/Rohitkushwaha1310/output/pacman-contribution-graph-dark.svg" width="95%"/>
-</div>
-
-<br/>
-
-## 🤝 Connect
+## `04` &nbsp;Live GitHub Stats
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rohitkushwaha1310)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohitkushwaha)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohitkushwaha1310@gmail.com)
+<img src="https://github-readme-stats.vercel.app/api?username=Rohitkushwaha1310&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&bg_color=0A0E14&title_color=4C8DFF&icon_color=1F4FD8&text_color=A9B7D0&ring_color=1F4FD8" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitkushwaha1310&layout=compact&hide_border=true&theme=tokyonight&bg_color=0A0E14&title_color=4C8DFF&text_color=A9B7D0&langs_count=8" height="165"/>
+
+<img src="https://streak-stats.demolab.com/?user=Rohitkushwaha1310&theme=tokyonight&hide_border=true&background=0A0E14&ring=1F4FD8&fire=4C8DFF&currStreakLabel=4C8DFF&sideLabels=A9B7D0&dates=A9B7D0" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohitkushwaha1310&theme=tokyo-night&hide_border=true&bg_color=0A0E14&color=4C8DFF&line=1F4FD8&point=ffffff&area=true&area_color=1F4FD8" width="100%"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:6366F1,100:0F172A&height=100&section=footer" width="100%"/>
+## `05` &nbsp;Trophy Case
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Rohitkushwaha1310&theme=discord&no-frame=true&row=1&column=6&title=Stars,Commits,PRs,Issues,Followers,Repositories" />
+
+</div>
+
+## `06` &nbsp;Let's Build Something
+
+<div align="center">
+
+<a href="https://github.com/Rohitkushwaha1310"><img src="https://img.shields.io/badge/GitHub-Follow-0A0E14?style=for-the-badge&logo=github&logoColor=4C8DFF"/></a>
+<a href="https://linkedin.com/in/rohitkushwaha"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A0E14?style=for-the-badge&logo=linkedin&logoColor=4C8DFF"/></a>
+<a href="mailto:rohitkushwaha1310@gmail.com"><img src="https://img.shields.io/badge/Gmail-Message-0A0E14?style=for-the-badge&logo=gmail&logoColor=4C8DFF"/></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F4FD8,50:0F1B3D,100:0A0E14&height=120&section=footer" width="100%"/>
+
+</div>
