@@ -109,15 +109,27 @@ looking_for: Data Analyst / Data Science Internship
 ## `04` &nbsp;Live GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Rohitkushwaha1310&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&bg_color=0A0E14&title_color=4C8DFF&icon_color=1F4FD8&text_color=A9B7D0&ring_color=1F4FD8" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitkushwaha1310&layout=compact&hide_border=true&theme=tokyonight&bg_color=0A0E14&title_color=4C8DFF&text_color=A9B7D0&langs_count=8" height="165"/>
-
-<img src="https://streak-stats.demolab.com/?user=Rohitkushwaha1310&theme=tokyonight&hide_border=true&background=0A0E14&ring=1F4FD8&fire=4C8DFF&currStreakLabel=4C8DFF&sideLabels=A9B7D0&dates=A9B7D0" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohitkushwaha1310&theme=tokyo-night&hide_border=true&bg_color=0A0E14&color=4C8DFF&line=1F4FD8&point=ffffff&area=true&area_color=1F4FD8" width="100%"/>
-
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rohitkushwaha1310&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&bg_color=0D1117&title_color=8A2BE2&icon_color=22D3EE" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitkushwaha1310&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=8A2BE2" />
 </div>
+
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=Rohitkushwaha1310&theme=tokyonight&hide_border=true&background=0D1117&ring=8A2BE2&fire=22D3EE" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohitkushwaha1310&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=22D3EE&line=8A2BE2&point=ffffff" width="95%"/>
+</div>
+
+<details>
+<summary align="center">🏆 Trophies (click to expand)</summary>
+<br/>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Rohitkushwaha1310&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</div>
+</details>
+
+<br/>
 
 ## `05` &nbsp;Trophy Case
 
