@@ -153,9 +153,3 @@ looking_for: Data Analyst / Data Science Internship
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F4FD8,50:0F1B3D,100:0A0E14&height=120&section=footer" width="100%"/>
 
 </div>
-this is the code which is curently showing there is some problem it based on l my resume but i want to  mention which  only whic is profeicent in gihutbb because the project alreasy listend as you knnow about myself 
-then update it and  try to make majority graphically represent and modern design 
- ans there is some probleminn exitsing
-it thing stats is not real time or accurate with minne  you can see it 
-so ressolve it  ans trpy case it nnot oaded so try something valuable ans new whihc should be grpahical represneted with mdoern style 
-and dont mention project in it directly  and if you wnat anything form me tell me lik progifle everything should be mine and also real i time fethcing 
