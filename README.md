@@ -1,3 +1,4 @@
+i wna to update and enhance by github profile so i wnat to change smy github 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E14,50:0F1B3D,100:1F4FD8&height=220&section=header&text=Rohit%20Kushwaha&fontSize=48&fontColor=E8EEFF&fontAlign=50&fontAlignY=38&desc=Data%20Analyst%20%7C%20Python%20%C2%B7%20SQL%20%C2%B7%20ML%20%C2%B7%20BI%20Dashboards&descSize=18&descAlign=50&descAlignY=58&animation=fadeIn" width="100%"/>
@@ -152,3 +153,9 @@ looking_for: Data Analyst / Data Science Internship
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F4FD8,50:0F1B3D,100:0A0E14&height=120&section=footer" width="100%"/>
 
 </div>
+this is the code which is curently showing there is some problem it based on l my resume but i want to  mention which  only whic is profeicent in gihutbb because the project alreasy listend as you knnow about myself 
+then update it and  try to make majority graphically represent and modern design 
+ ans there is some probleminn exitsing
+it thing stats is not real time or accurate with minne  you can see it 
+so ressolve it  ans trpy case it nnot oaded so try something valuable ans new whihc should be grpahical represneted with mdoern style 
+and dont mention project in it directly  and if you wnat anything form me tell me lik progifle everything should be mine and also real i time fethcing 
