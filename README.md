@@ -1,4 +1,4 @@
-i wna to update and enhance by github profile so i wnat to change smy github 
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E14,50:0F1B3D,100:1F4FD8&height=220&section=header&text=Rohit%20Kushwaha&fontSize=48&fontColor=E8EEFF&fontAlign=50&fontAlignY=38&desc=Data%20Analyst%20%7C%20Python%20%C2%B7%20SQL%20%C2%B7%20ML%20%C2%B7%20BI%20Dashboards&descSize=18&descAlign=50&descAlignY=58&animation=fadeIn" width="100%"/>
@@ -10,7 +10,7 @@ i wna to update and enhance by github profile so i wnat to change smy github
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=Rohitkushwaha1310&label=Profile%20Views&color=1F4FD8&style=for-the-badge&labelColor=0A0E14" />
-<a href="https://linkedin.com/in/rohitkushwaha"><img src="https://img.shields.io/badge/LinkedIn-Connect-1F4FD8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0E14" /></a>
+<a href="www.linkedin.com/in/rohit-kushwaha-35930b39b"><img src="https://img.shields.io/badge/LinkedIn-Connect-1F4FD8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0E14" /></a>
 <a href="mailto:rohitkushwaha1310@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-1F4FD8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0E14" /></a>
 
 </div>
